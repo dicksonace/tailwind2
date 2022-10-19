@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background: url("./assets/Vector_2640.jpg"),red;
+  background: url("./assets/assets/img/hero-bg.png"), #201f24;
   background-size: cover;
   background-repeat: no-repeat;
   
