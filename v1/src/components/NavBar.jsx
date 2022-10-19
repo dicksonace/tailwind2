@@ -8,7 +8,7 @@ const NavBar = () => {
     setNav(!nav);
   };
   return (
-    <div className="fixed text-white w-[100%]  h-25 flex justify-between items-center py-4 px-[20px]">
+    <div className="fixed text-white w-[100%] bg-[#201f24]  h-25 flex justify-between items-center py-4 px-[20px]">
       <h1 className="font-bold md:px-[40px] text-3xl">ALWAY HIGH (SMOKE)</h1>
 
       <ul className="hidden md:flex">
