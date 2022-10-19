@@ -12,7 +12,7 @@ const OurService = () => {
     <div className="flex flex-col   bg-white w-100 min-h-[50px]">
       <h1 className="text-center text-4xl   font-bold  py-5">OurService</h1>
 
-      <div className="grid grid-cols-3 gap-2 m-20">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-2 m-20">
         <SubOurService
           img={img1}
           title="WAREHOUSING"
